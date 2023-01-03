@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 ### Top Languages used by me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Bagadia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-name: Using a trusted community template
-uses: lowlighter/metrics@latest
-with:
-  token: ${{ secrets.METRICS_TOKEN }}
-  template: "@terminal"
-  setup_community_templates: lowlighter/metrics@master:terminal+trust
+
+- uses: lowlighter/metrics@latest
+  with:
+    plugin_languages: yes
+    plugin_languages_indepth: yes
+    commits_authoring: firstname lastname, username, username@users.noreply.github.com
