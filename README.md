@@ -29,3 +29,4 @@ with:
     gnuplot
   plugin_languages_details: bytes-size, percentage
   plugin_languages_limit: 4
+
