@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Tanmay-Bagadia
 - 👀 I’m interested in game and web development 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Well, you might not see much, I tend to delete stuff now and then.
 
 <!---
 Tanmay-Bagadia/Tanmay-Bagadia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
