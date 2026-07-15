@@ -1,18 +1,29 @@
-- 👋 Hi, I’m @Tanmay-Bagadia
-- 👀 I’m interested in game and web development 
-Well, you might not see much, I tend to delete stuff now and then.
+<h1 align="center">hey, I'm Tanmay 👋</h1>
 
-<!---
-Tanmay-Bagadia/Tanmay-Bagadia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://codeforces.com/profile/captain_digilant_13">codeforces</a> ·
+  <a href="https://github.com/Tanmay-Bagadia">github</a>
+</p>
+
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tanmay-Bagadia&theme=dark&background=000000)](https://git.io/streak-stats)
+-  building a Tetris variant right now.
+-  building a chess engine too but currently on pause.
+-  made **Code Notes**, a Firefox extension for CP note-taking.
+-  grinding competitive programming on Codeforces.
+-  into AI/ML, game dev, and low-level graphics stuff.
 
-### Top Languages used by me:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Bagadia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### tech stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,mongodb,git,blender&theme=dark" />
+</p>
 
+---
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Bagadia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-Bagadia&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF" />
+</p>
